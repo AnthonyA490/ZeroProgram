@@ -1,5 +1,5 @@
 {
-    "name": "ZeroProgram",
+    "name": "7 Segement LED",
     "description": "",
     "dependencies": {
         "core": "*",
